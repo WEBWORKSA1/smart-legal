@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-23T16:02:50+00:00",
+ "updated": "2026-11-24T03:20:35+00:00",
  "videos": [
+  {
+   "id": "FQ5afJLrljI",
+   "title": "Mystery Stream",
+   "channel": "Law Talk With Mike",
+   "published": "2026-11-24T01:51:30+00:00"
+  },
+  {
+   "id": "DIphl02wdvM",
+   "title": "Prosecutors Reviewed EDP445 Twice. Then They Heard the Interview.",
+   "channel": "Uncivil Law",
+   "published": "2026-11-24T00:47:29+00:00"
+  },
+  {
+   "id": "KVgCriBAeYM",
+   "title": "Your people went in to my home!",
+   "channel": "Law Talk With Mike",
+   "published": "2026-11-23T23:21:15+00:00"
+  },
+  {
+   "id": "ZxRgModB88M",
+   "title": "How To Survive Quicksand",
+   "channel": "Law By Mike",
+   "published": "2026-11-23T20:36:07+00:00"
+  },
+  {
+   "id": "Y-akUi6Bidg",
+   "title": "Ethan Klein v. Hila Klein",
+   "channel": "LegalEagle",
+   "published": "2026-11-23T20:09:10+00:00"
+  },
   {
    "id": "skb3Zr5i-Xg",
    "title": "It Took a Judge Seconds to Catch This Man's AI Lawyer",
@@ -15,7 +45,7 @@
   },
   {
    "id": "ewii9TGmTFs",
-   "title": "INSANE Reasons You Can Sue Your Parents… AND WIN!",
+   "title": "​I Helped Kids Sue Their Parents",
    "channel": "Law By Mike",
    "published": "2026-11-23T13:47:35+00:00"
   },
@@ -110,24 +140,6 @@
    "published": "2026-11-20T15:00:41+00:00"
   },
   {
-   "id": "ZHLbsJQ6U_g",
-   "title": "Watch Sky News Read the Fine Print on the Russell Brand Takedown",
-   "channel": "Uncivil Law",
-   "published": "2026-11-20T00:15:08+00:00"
-  },
-  {
-   "id": "2rYV5IpaHlQ",
-   "title": "Karen can't read the room.",
-   "channel": "Law Talk With Mike",
-   "published": "2026-11-20T00:09:07+00:00"
-  },
-  {
-   "id": "XIEbGbLHi_4",
-   "title": "Judge Calls Handcuffed Defendant “STUPID DUMB!” in Court!",
-   "channel": "Law Talk With Mike",
-   "published": "2026-11-19T18:12:29+00:00"
-  },
-  {
    "id": "VJAeimBx7o0",
    "title": "The One Thing a Trump Pardon Can’t Stop for Hegseth",
    "channel": "LegalEagle",
@@ -144,12 +156,6 @@
    "title": "A Tomb Guard Just Yelled at Pete Hegseth",
    "channel": "LegalEagle",
    "published": "2026-11-18T16:44:05+00:00"
-  },
-  {
-   "id": "MFFnZllvI9c",
-   "title": "The First AI Victim Impact Statement?!",
-   "channel": "LegalEagle",
-   "published": "2026-11-17T21:28:11+00:00"
   },
   {
    "id": "bOkPnwnRQTc",
@@ -186,12 +192,6 @@
    "title": "Can You Get Arrested In VR?",
    "channel": "Law By Mike",
    "published": "2026-10-30T01:41:20+00:00"
-  },
-  {
-   "id": "O7GW0Ga5A_A",
-   "title": "Who Can Escape The Zombies The Fastest?",
-   "channel": "Law By Mike",
-   "published": "2026-10-26T21:59:51+00:00"
   }
  ],
  "channels": [
